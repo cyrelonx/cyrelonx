@@ -20,6 +20,9 @@ I'm a self-taught developer and aspiring cybersecurity specialist. Passionate ab
 | SAMP scripts (server scripts and gamemodes) | Custom systems written in PAWN for multiplayer game servers | PAWN |
 | Python security tools | Scripts for IP scanning, info gathering, and automation | Python |
 | Simple web apps | Login systems and forms with basic security | HTML, CSS, JS, PHP |
+| Console snake game | No need to say anything I guess, just a simple game in console | C++ |
+| Mini console bank system | I was bored and made that simple banking program | C++ |
+| Password manager | Kinda cyber-sec related tool I guess, managing account passwords (encrypted) | C++ |
 
 > More coming soon: Nmap wrappers, log parsers, password hash crackers and more!
 
