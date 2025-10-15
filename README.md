@@ -1,10 +1,10 @@
 # 👋 Hi there! I'm Cyrelonx
 
-I'm a self-taught developer and aspiring cybersecurity specialist. Passionate about hacking (ethically 😉), scripting, and learning how systems work under the hood. Currently working on building my skills and portfolio to land a job or freelance role in cybersecurity.
+I'm a self-taught developer and aspiring cybersecurity specialist. Passionate about hacking (ethically), scripting, and learning how systems work under the hood..
 
 ---
 
-## 🧠 Currently Learning
+## 🧠 Learning
 
 - Linux system administration & command line
 - Ethical hacking (TryHackMe)
